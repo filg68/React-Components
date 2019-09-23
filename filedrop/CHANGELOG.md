@@ -6,10 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.0] - 2019-08-20
+## [0.1.0] - 2019-09-23 - Starting files - Development
 ### Added
-- First release of React\Parcel scaffolding
-- Includes support for Prettier and ESLint
 
 ### Changed
 

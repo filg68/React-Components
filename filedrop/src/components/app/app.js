@@ -2,6 +2,14 @@ import React from "react";
 import { render } from "react-dom";
 import SampleComponent from "../../../code_samples/sample_component/sample_component"
 
+const VERSION = '0.1.0';
+
+// Returns the current version of the component
+// Version number is changed with each PR to master
+function _GET_VERSION() {
+  return VERSION
+}
+
 // create the web page from components
 const App = () => {
   return (

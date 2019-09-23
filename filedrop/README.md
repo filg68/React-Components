@@ -1,4 +1,4 @@
-# Title
+# Filedrop
 
 ![banner]()
 
@@ -7,9 +7,10 @@
 [![license](https://img.shields.io/apm/l/vim-mode)](LICENSE)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-green.svg?style=flat)](https://github.com/RichardLitt/standard-readme)
 
-> This is an example file with maximal choices selected.
+Simple re-usable file drop component that provides a template image to indicate drop zone.
+Component will be re-sizable via props and template image will be user definable.
 
-This is a long description.
+Component will accept a file and then switch to show a preview of the image load.
 
 ## Table of Contents
 
@@ -32,6 +33,11 @@ This is a long description.
 ## Features
 
 ## Background
+
+There are several solutions for this on web but they all suffer from an excess of complexity
+due to the number of features they support and\or how they are designed.  This component is meant to be a simple,
+easy to understand file drop component that will not require major configurations, or
+deep understanding on how to use it.
 
 ### Any optional sections
 
